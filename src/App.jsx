@@ -1,12 +1,12 @@
+import Accordion from "./component/accordion"
 
-import './App.css'
-import Accordion from './components'
 
 function App() {
 
 
   return (
     <>
+      {/* <Accordion></Accordion> */}
       <Accordion></Accordion>
     </>
   )
